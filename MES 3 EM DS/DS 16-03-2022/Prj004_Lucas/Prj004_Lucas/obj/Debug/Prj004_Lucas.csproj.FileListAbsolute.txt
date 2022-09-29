@@ -1,0 +1,20 @@
+C:\Users\Lab_ETESP\Desktop\Prj004_Lucas\Prj004_Lucas\bin\Debug\Prj004_Lucas.exe.config
+C:\Users\Lab_ETESP\Desktop\Prj004_Lucas\Prj004_Lucas\bin\Debug\Prj004_Lucas.exe
+C:\Users\Lab_ETESP\Desktop\Prj004_Lucas\Prj004_Lucas\bin\Debug\Prj004_Lucas.pdb
+C:\Users\Lab_ETESP\Desktop\Prj004_Lucas\Prj004_Lucas\obj\Debug\Prj004_Lucas.Form1.resources
+C:\Users\Lab_ETESP\Desktop\Prj004_Lucas\Prj004_Lucas\obj\Debug\Prj004_Lucas.Properties.Resources.resources
+C:\Users\Lab_ETESP\Desktop\Prj004_Lucas\Prj004_Lucas\obj\Debug\Prj004_Lucas.csproj.GenerateResource.cache
+C:\Users\Lab_ETESP\Desktop\Prj004_Lucas\Prj004_Lucas\obj\Debug\Prj004_Lucas.csproj.CoreCompileInputs.cache
+C:\Users\Lab_ETESP\Desktop\Prj004_Lucas\Prj004_Lucas\obj\Debug\Prj004_Lucas.exe
+C:\Users\Lab_ETESP\Desktop\Prj004_Lucas\Prj004_Lucas\obj\Debug\Prj004_Lucas.pdb
+C:\Users\Lab_ETESP\Desktop\Prj004_Lucas\Prj004_Lucas\obj\Debug\Prj004_Lucas.csprojAssemblyReference.cache
+F:\p\DS com Betão\DS 16-03-2022\Prj004_Lucas\Prj004_Lucas\bin\Debug\Prj004_Lucas.exe.config
+F:\p\DS com Betão\DS 16-03-2022\Prj004_Lucas\Prj004_Lucas\bin\Debug\Prj004_Lucas.exe
+F:\p\DS com Betão\DS 16-03-2022\Prj004_Lucas\Prj004_Lucas\bin\Debug\Prj004_Lucas.pdb
+F:\p\DS com Betão\DS 16-03-2022\Prj004_Lucas\Prj004_Lucas\obj\Debug\Prj004_Lucas.csprojAssemblyReference.cache
+F:\p\DS com Betão\DS 16-03-2022\Prj004_Lucas\Prj004_Lucas\obj\Debug\Prj004_Lucas.Form1.resources
+F:\p\DS com Betão\DS 16-03-2022\Prj004_Lucas\Prj004_Lucas\obj\Debug\Prj004_Lucas.Properties.Resources.resources
+F:\p\DS com Betão\DS 16-03-2022\Prj004_Lucas\Prj004_Lucas\obj\Debug\Prj004_Lucas.csproj.GenerateResource.cache
+F:\p\DS com Betão\DS 16-03-2022\Prj004_Lucas\Prj004_Lucas\obj\Debug\Prj004_Lucas.csproj.CoreCompileInputs.cache
+F:\p\DS com Betão\DS 16-03-2022\Prj004_Lucas\Prj004_Lucas\obj\Debug\Prj004_Lucas.exe
+F:\p\DS com Betão\DS 16-03-2022\Prj004_Lucas\Prj004_Lucas\obj\Debug\Prj004_Lucas.pdb

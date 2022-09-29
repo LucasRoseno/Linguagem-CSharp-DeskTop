@@ -1,0 +1,11 @@
+Metodo é o que um objeto sabe fazer.
+
+Exemplo de Eventos: "click"(Quando clicar em tal botão acontece tal.)
+
+Objetos: Tudo aquilo que podemos colocar num formulario. (btn, lbl, txtbox...)
+
+Propriedade -> Informação de um objeto(Tamanho do lbl, cor do btn, nome/fonte de algo, ...)
+
+
+
+

@@ -1,0 +1,10 @@
+F:\p\DS com Betão\MES 9 EM DS\Prj028_BD\Prj028_BD\bin\Debug\Prj028_BD.exe.config
+F:\p\DS com Betão\MES 9 EM DS\Prj028_BD\Prj028_BD\bin\Debug\Prj028_BD.exe
+F:\p\DS com Betão\MES 9 EM DS\Prj028_BD\Prj028_BD\bin\Debug\Prj028_BD.pdb
+F:\p\DS com Betão\MES 9 EM DS\Prj028_BD\Prj028_BD\obj\Debug\Prj028_BD.csprojAssemblyReference.cache
+F:\p\DS com Betão\MES 9 EM DS\Prj028_BD\Prj028_BD\obj\Debug\Prj028_BD.Form1.resources
+F:\p\DS com Betão\MES 9 EM DS\Prj028_BD\Prj028_BD\obj\Debug\Prj028_BD.Properties.Resources.resources
+F:\p\DS com Betão\MES 9 EM DS\Prj028_BD\Prj028_BD\obj\Debug\Prj028_BD.csproj.GenerateResource.cache
+F:\p\DS com Betão\MES 9 EM DS\Prj028_BD\Prj028_BD\obj\Debug\Prj028_BD.csproj.CoreCompileInputs.cache
+F:\p\DS com Betão\MES 9 EM DS\Prj028_BD\Prj028_BD\obj\Debug\Prj028_BD.exe
+F:\p\DS com Betão\MES 9 EM DS\Prj028_BD\Prj028_BD\obj\Debug\Prj028_BD.pdb

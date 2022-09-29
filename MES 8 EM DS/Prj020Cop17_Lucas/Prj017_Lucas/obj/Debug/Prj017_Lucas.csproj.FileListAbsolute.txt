@@ -1,0 +1,20 @@
+F:\p\DS com Betão\MES 6 EM DS\DS 22-06-2022\Prj017_Lucas\Prj017_Lucas\bin\Debug\Prj017_Lucas.exe.config
+F:\p\DS com Betão\MES 6 EM DS\DS 22-06-2022\Prj017_Lucas\Prj017_Lucas\bin\Debug\Prj017_Lucas.exe
+F:\p\DS com Betão\MES 6 EM DS\DS 22-06-2022\Prj017_Lucas\Prj017_Lucas\bin\Debug\Prj017_Lucas.pdb
+F:\p\DS com Betão\MES 6 EM DS\DS 22-06-2022\Prj017_Lucas\Prj017_Lucas\obj\Debug\Prj017_Lucas.Form1.resources
+F:\p\DS com Betão\MES 6 EM DS\DS 22-06-2022\Prj017_Lucas\Prj017_Lucas\obj\Debug\Prj017_Lucas.Properties.Resources.resources
+F:\p\DS com Betão\MES 6 EM DS\DS 22-06-2022\Prj017_Lucas\Prj017_Lucas\obj\Debug\Prj017_Lucas.csproj.GenerateResource.cache
+F:\p\DS com Betão\MES 6 EM DS\DS 22-06-2022\Prj017_Lucas\Prj017_Lucas\obj\Debug\Prj017_Lucas.csproj.CoreCompileInputs.cache
+F:\p\DS com Betão\MES 6 EM DS\DS 22-06-2022\Prj017_Lucas\Prj017_Lucas\obj\Debug\Prj017_Lucas.exe
+F:\p\DS com Betão\MES 6 EM DS\DS 22-06-2022\Prj017_Lucas\Prj017_Lucas\obj\Debug\Prj017_Lucas.pdb
+F:\p\DS com Betão\MES 6 EM DS\DS 22-06-2022\Prj017_Lucas\Prj017_Lucas\obj\Debug\Prj017_Lucas.csprojAssemblyReference.cache
+F:\p\DS com Betão\MES 8 EM DS\Prj020Cop17_Lucas\Prj017_Lucas\bin\Debug\Prj017_Lucas.exe.config
+F:\p\DS com Betão\MES 8 EM DS\Prj020Cop17_Lucas\Prj017_Lucas\bin\Debug\Prj017_Lucas.exe
+F:\p\DS com Betão\MES 8 EM DS\Prj020Cop17_Lucas\Prj017_Lucas\bin\Debug\Prj017_Lucas.pdb
+F:\p\DS com Betão\MES 8 EM DS\Prj020Cop17_Lucas\Prj017_Lucas\obj\Debug\Prj017_Lucas.csprojAssemblyReference.cache
+F:\p\DS com Betão\MES 8 EM DS\Prj020Cop17_Lucas\Prj017_Lucas\obj\Debug\Prj017_Lucas.Form1.resources
+F:\p\DS com Betão\MES 8 EM DS\Prj020Cop17_Lucas\Prj017_Lucas\obj\Debug\Prj017_Lucas.Properties.Resources.resources
+F:\p\DS com Betão\MES 8 EM DS\Prj020Cop17_Lucas\Prj017_Lucas\obj\Debug\Prj017_Lucas.csproj.GenerateResource.cache
+F:\p\DS com Betão\MES 8 EM DS\Prj020Cop17_Lucas\Prj017_Lucas\obj\Debug\Prj017_Lucas.csproj.CoreCompileInputs.cache
+F:\p\DS com Betão\MES 8 EM DS\Prj020Cop17_Lucas\Prj017_Lucas\obj\Debug\Prj017_Lucas.exe
+F:\p\DS com Betão\MES 8 EM DS\Prj020Cop17_Lucas\Prj017_Lucas\obj\Debug\Prj017_Lucas.pdb

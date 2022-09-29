@@ -1,0 +1,10 @@
+F:\p\DS 09-03-2022\Prj002_Lucas\Prj002_Lucas\bin\Debug\Prj002_Lucas.exe.config
+F:\p\DS 09-03-2022\Prj002_Lucas\Prj002_Lucas\bin\Debug\Prj002_Lucas.exe
+F:\p\DS 09-03-2022\Prj002_Lucas\Prj002_Lucas\bin\Debug\Prj002_Lucas.pdb
+F:\p\DS 09-03-2022\Prj002_Lucas\Prj002_Lucas\obj\Debug\Prj002_Lucas.csprojAssemblyReference.cache
+F:\p\DS 09-03-2022\Prj002_Lucas\Prj002_Lucas\obj\Debug\Prj002_Lucas.FrmExe002.resources
+F:\p\DS 09-03-2022\Prj002_Lucas\Prj002_Lucas\obj\Debug\Prj002_Lucas.Properties.Resources.resources
+F:\p\DS 09-03-2022\Prj002_Lucas\Prj002_Lucas\obj\Debug\Prj002_Lucas.csproj.GenerateResource.cache
+F:\p\DS 09-03-2022\Prj002_Lucas\Prj002_Lucas\obj\Debug\Prj002_Lucas.csproj.CoreCompileInputs.cache
+F:\p\DS 09-03-2022\Prj002_Lucas\Prj002_Lucas\obj\Debug\Prj002_Lucas.exe
+F:\p\DS 09-03-2022\Prj002_Lucas\Prj002_Lucas\obj\Debug\Prj002_Lucas.pdb

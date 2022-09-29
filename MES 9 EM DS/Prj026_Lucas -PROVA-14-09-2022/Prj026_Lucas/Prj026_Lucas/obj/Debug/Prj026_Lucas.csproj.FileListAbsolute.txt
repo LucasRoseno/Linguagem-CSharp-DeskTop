@@ -1,0 +1,10 @@
+F:\p\DS com Betão\MES 9 EM DS\Prj026_Lucas -PROVA-14-09-2022\Prj026_Lucas\Prj026_Lucas\bin\Debug\Prj026_Lucas.exe.config
+F:\p\DS com Betão\MES 9 EM DS\Prj026_Lucas -PROVA-14-09-2022\Prj026_Lucas\Prj026_Lucas\bin\Debug\Prj026_Lucas.exe
+F:\p\DS com Betão\MES 9 EM DS\Prj026_Lucas -PROVA-14-09-2022\Prj026_Lucas\Prj026_Lucas\bin\Debug\Prj026_Lucas.pdb
+F:\p\DS com Betão\MES 9 EM DS\Prj026_Lucas -PROVA-14-09-2022\Prj026_Lucas\Prj026_Lucas\obj\Debug\Prj026_Lucas.csprojAssemblyReference.cache
+F:\p\DS com Betão\MES 9 EM DS\Prj026_Lucas -PROVA-14-09-2022\Prj026_Lucas\Prj026_Lucas\obj\Debug\Prj026_Lucas.Form1.resources
+F:\p\DS com Betão\MES 9 EM DS\Prj026_Lucas -PROVA-14-09-2022\Prj026_Lucas\Prj026_Lucas\obj\Debug\Prj026_Lucas.Properties.Resources.resources
+F:\p\DS com Betão\MES 9 EM DS\Prj026_Lucas -PROVA-14-09-2022\Prj026_Lucas\Prj026_Lucas\obj\Debug\Prj026_Lucas.csproj.GenerateResource.cache
+F:\p\DS com Betão\MES 9 EM DS\Prj026_Lucas -PROVA-14-09-2022\Prj026_Lucas\Prj026_Lucas\obj\Debug\Prj026_Lucas.csproj.CoreCompileInputs.cache
+F:\p\DS com Betão\MES 9 EM DS\Prj026_Lucas -PROVA-14-09-2022\Prj026_Lucas\Prj026_Lucas\obj\Debug\Prj026_Lucas.exe
+F:\p\DS com Betão\MES 9 EM DS\Prj026_Lucas -PROVA-14-09-2022\Prj026_Lucas\Prj026_Lucas\obj\Debug\Prj026_Lucas.pdb

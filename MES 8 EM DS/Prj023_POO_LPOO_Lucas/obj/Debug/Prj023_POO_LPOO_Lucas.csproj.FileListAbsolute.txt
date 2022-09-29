@@ -1,0 +1,10 @@
+F:\p\DS com Betão\MES 8 EM DS\Prj023_POO_LPOO_Lucas\bin\Debug\Prj023_POO_LPOO_Lucas.exe.config
+F:\p\DS com Betão\MES 8 EM DS\Prj023_POO_LPOO_Lucas\bin\Debug\Prj023_POO_LPOO_Lucas.exe
+F:\p\DS com Betão\MES 8 EM DS\Prj023_POO_LPOO_Lucas\bin\Debug\Prj023_POO_LPOO_Lucas.pdb
+F:\p\DS com Betão\MES 8 EM DS\Prj023_POO_LPOO_Lucas\obj\Debug\Prj023_POO_LPOO_Lucas.csprojAssemblyReference.cache
+F:\p\DS com Betão\MES 8 EM DS\Prj023_POO_LPOO_Lucas\obj\Debug\Prj023_POO_LPOO_Lucas.Form1.resources
+F:\p\DS com Betão\MES 8 EM DS\Prj023_POO_LPOO_Lucas\obj\Debug\Prj023_POO_LPOO_Lucas.Properties.Resources.resources
+F:\p\DS com Betão\MES 8 EM DS\Prj023_POO_LPOO_Lucas\obj\Debug\Prj023_POO_LPOO_Lucas.csproj.GenerateResource.cache
+F:\p\DS com Betão\MES 8 EM DS\Prj023_POO_LPOO_Lucas\obj\Debug\Prj023_POO_LPOO_Lucas.csproj.CoreCompileInputs.cache
+F:\p\DS com Betão\MES 8 EM DS\Prj023_POO_LPOO_Lucas\obj\Debug\Prj023_POO_LPOO_Lucas.exe
+F:\p\DS com Betão\MES 8 EM DS\Prj023_POO_LPOO_Lucas\obj\Debug\Prj023_POO_LPOO_Lucas.pdb

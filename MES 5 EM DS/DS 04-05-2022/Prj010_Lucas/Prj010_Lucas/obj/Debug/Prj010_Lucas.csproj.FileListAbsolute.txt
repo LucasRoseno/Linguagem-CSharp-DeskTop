@@ -1,0 +1,20 @@
+F:\p\DS com Betão\DS 04-05-2022\Prj010_Lucas\Prj010_Lucas\bin\Debug\Prj010_Lucas.exe.config
+F:\p\DS com Betão\DS 04-05-2022\Prj010_Lucas\Prj010_Lucas\bin\Debug\Prj010_Lucas.exe
+F:\p\DS com Betão\DS 04-05-2022\Prj010_Lucas\Prj010_Lucas\bin\Debug\Prj010_Lucas.pdb
+F:\p\DS com Betão\DS 04-05-2022\Prj010_Lucas\Prj010_Lucas\obj\Debug\Prj010_Lucas.csprojAssemblyReference.cache
+F:\p\DS com Betão\DS 04-05-2022\Prj010_Lucas\Prj010_Lucas\obj\Debug\Prj010_Lucas.Form1.resources
+F:\p\DS com Betão\DS 04-05-2022\Prj010_Lucas\Prj010_Lucas\obj\Debug\Prj010_Lucas.Properties.Resources.resources
+F:\p\DS com Betão\DS 04-05-2022\Prj010_Lucas\Prj010_Lucas\obj\Debug\Prj010_Lucas.csproj.GenerateResource.cache
+F:\p\DS com Betão\DS 04-05-2022\Prj010_Lucas\Prj010_Lucas\obj\Debug\Prj010_Lucas.csproj.CoreCompileInputs.cache
+F:\p\DS com Betão\DS 04-05-2022\Prj010_Lucas\Prj010_Lucas\obj\Debug\Prj010_Lucas.exe
+F:\p\DS com Betão\DS 04-05-2022\Prj010_Lucas\Prj010_Lucas\obj\Debug\Prj010_Lucas.pdb
+F:\p\DS com Betão\MES 5 EM DS\DS 04-05-2022\Prj010_Lucas\Prj010_Lucas\bin\Debug\Prj010_Lucas.exe.config
+F:\p\DS com Betão\MES 5 EM DS\DS 04-05-2022\Prj010_Lucas\Prj010_Lucas\bin\Debug\Prj010_Lucas.exe
+F:\p\DS com Betão\MES 5 EM DS\DS 04-05-2022\Prj010_Lucas\Prj010_Lucas\bin\Debug\Prj010_Lucas.pdb
+F:\p\DS com Betão\MES 5 EM DS\DS 04-05-2022\Prj010_Lucas\Prj010_Lucas\obj\Debug\Prj010_Lucas.csprojAssemblyReference.cache
+F:\p\DS com Betão\MES 5 EM DS\DS 04-05-2022\Prj010_Lucas\Prj010_Lucas\obj\Debug\Prj010_Lucas.Form1.resources
+F:\p\DS com Betão\MES 5 EM DS\DS 04-05-2022\Prj010_Lucas\Prj010_Lucas\obj\Debug\Prj010_Lucas.Properties.Resources.resources
+F:\p\DS com Betão\MES 5 EM DS\DS 04-05-2022\Prj010_Lucas\Prj010_Lucas\obj\Debug\Prj010_Lucas.csproj.GenerateResource.cache
+F:\p\DS com Betão\MES 5 EM DS\DS 04-05-2022\Prj010_Lucas\Prj010_Lucas\obj\Debug\Prj010_Lucas.csproj.CoreCompileInputs.cache
+F:\p\DS com Betão\MES 5 EM DS\DS 04-05-2022\Prj010_Lucas\Prj010_Lucas\obj\Debug\Prj010_Lucas.exe
+F:\p\DS com Betão\MES 5 EM DS\DS 04-05-2022\Prj010_Lucas\Prj010_Lucas\obj\Debug\Prj010_Lucas.pdb

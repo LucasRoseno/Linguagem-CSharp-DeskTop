@@ -1,0 +1,10 @@
+F:\p\DS com Betão\MES 8 EM DS\Prj024_Lucas\bin\Debug\Prj024_Lucas.exe.config
+F:\p\DS com Betão\MES 8 EM DS\Prj024_Lucas\bin\Debug\Prj024_Lucas.exe
+F:\p\DS com Betão\MES 8 EM DS\Prj024_Lucas\bin\Debug\Prj024_Lucas.pdb
+F:\p\DS com Betão\MES 8 EM DS\Prj024_Lucas\obj\Debug\Prj024_Lucas.csprojAssemblyReference.cache
+F:\p\DS com Betão\MES 8 EM DS\Prj024_Lucas\obj\Debug\Prj024_Lucas.btnLimpar.resources
+F:\p\DS com Betão\MES 8 EM DS\Prj024_Lucas\obj\Debug\Prj024_Lucas.Properties.Resources.resources
+F:\p\DS com Betão\MES 8 EM DS\Prj024_Lucas\obj\Debug\Prj024_Lucas.csproj.GenerateResource.cache
+F:\p\DS com Betão\MES 8 EM DS\Prj024_Lucas\obj\Debug\Prj024_Lucas.csproj.CoreCompileInputs.cache
+F:\p\DS com Betão\MES 8 EM DS\Prj024_Lucas\obj\Debug\Prj024_Lucas.exe
+F:\p\DS com Betão\MES 8 EM DS\Prj024_Lucas\obj\Debug\Prj024_Lucas.pdb

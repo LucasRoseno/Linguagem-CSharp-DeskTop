@@ -1,0 +1,11 @@
+F:\p\DS com Betão\MES 9 EM DS\Prj027_Lucas-ClasseAbstratas\bin\Debug\Prj027_Lucas-ClasseAbstratas.exe.config
+F:\p\DS com Betão\MES 9 EM DS\Prj027_Lucas-ClasseAbstratas\bin\Debug\Prj027_Lucas-ClasseAbstratas.exe
+F:\p\DS com Betão\MES 9 EM DS\Prj027_Lucas-ClasseAbstratas\bin\Debug\Prj027_Lucas-ClasseAbstratas.pdb
+F:\p\DS com Betão\MES 9 EM DS\Prj027_Lucas-ClasseAbstratas\obj\Debug\Prj027_Lucas-ClasseAbstratas.csprojAssemblyReference.cache
+F:\p\DS com Betão\MES 9 EM DS\Prj027_Lucas-ClasseAbstratas\obj\Debug\Prj027_Lucas_ClasseAbstratas.FrmMenu.resources
+F:\p\DS com Betão\MES 9 EM DS\Prj027_Lucas-ClasseAbstratas\obj\Debug\Prj027_Lucas_ClasseAbstratas.Properties.Resources.resources
+F:\p\DS com Betão\MES 9 EM DS\Prj027_Lucas-ClasseAbstratas\obj\Debug\Prj027_Lucas-ClasseAbstratas.csproj.GenerateResource.cache
+F:\p\DS com Betão\MES 9 EM DS\Prj027_Lucas-ClasseAbstratas\obj\Debug\Prj027_Lucas-ClasseAbstratas.csproj.CoreCompileInputs.cache
+F:\p\DS com Betão\MES 9 EM DS\Prj027_Lucas-ClasseAbstratas\obj\Debug\Prj027_Lucas-ClasseAbstratas.exe
+F:\p\DS com Betão\MES 9 EM DS\Prj027_Lucas-ClasseAbstratas\obj\Debug\Prj027_Lucas-ClasseAbstratas.pdb
+F:\p\DS com Betão\MES 9 EM DS\Prj027_Lucas-ClasseAbstratas\obj\Debug\Prj027_Lucas_ClasseAbstratas.Formulario.FrmCadastro.resources

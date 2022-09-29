@@ -1,0 +1,5 @@
+MATH.Pow(x,y)
+
+
+
+pow = potencia

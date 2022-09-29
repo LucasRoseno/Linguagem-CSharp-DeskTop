@@ -1,0 +1,6 @@
+AGUA*
+FOGO*
+TERRA*
+AR*
+METAL*
+lava

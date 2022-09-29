@@ -1,0 +1,10 @@
+F:\p\DS com Betão\MES 5 EM DS\DS 18-05-2022 PROVA\Prj012_Lucas_AVALIACAO\Prj012_Lucas_AVALIACAO\bin\Debug\Prj012_Lucas_AVALIACAO.exe.config
+F:\p\DS com Betão\MES 5 EM DS\DS 18-05-2022 PROVA\Prj012_Lucas_AVALIACAO\Prj012_Lucas_AVALIACAO\bin\Debug\Prj012_Lucas_AVALIACAO.exe
+F:\p\DS com Betão\MES 5 EM DS\DS 18-05-2022 PROVA\Prj012_Lucas_AVALIACAO\Prj012_Lucas_AVALIACAO\bin\Debug\Prj012_Lucas_AVALIACAO.pdb
+F:\p\DS com Betão\MES 5 EM DS\DS 18-05-2022 PROVA\Prj012_Lucas_AVALIACAO\Prj012_Lucas_AVALIACAO\obj\Debug\Prj012_Lucas_AVALIACAO.csprojAssemblyReference.cache
+F:\p\DS com Betão\MES 5 EM DS\DS 18-05-2022 PROVA\Prj012_Lucas_AVALIACAO\Prj012_Lucas_AVALIACAO\obj\Debug\Prj012_Lucas_AVALIACAO.Form1.resources
+F:\p\DS com Betão\MES 5 EM DS\DS 18-05-2022 PROVA\Prj012_Lucas_AVALIACAO\Prj012_Lucas_AVALIACAO\obj\Debug\Prj012_Lucas_AVALIACAO.Properties.Resources.resources
+F:\p\DS com Betão\MES 5 EM DS\DS 18-05-2022 PROVA\Prj012_Lucas_AVALIACAO\Prj012_Lucas_AVALIACAO\obj\Debug\Prj012_Lucas_AVALIACAO.csproj.GenerateResource.cache
+F:\p\DS com Betão\MES 5 EM DS\DS 18-05-2022 PROVA\Prj012_Lucas_AVALIACAO\Prj012_Lucas_AVALIACAO\obj\Debug\Prj012_Lucas_AVALIACAO.csproj.CoreCompileInputs.cache
+F:\p\DS com Betão\MES 5 EM DS\DS 18-05-2022 PROVA\Prj012_Lucas_AVALIACAO\Prj012_Lucas_AVALIACAO\obj\Debug\Prj012_Lucas_AVALIACAO.exe
+F:\p\DS com Betão\MES 5 EM DS\DS 18-05-2022 PROVA\Prj012_Lucas_AVALIACAO\Prj012_Lucas_AVALIACAO\obj\Debug\Prj012_Lucas_AVALIACAO.pdb

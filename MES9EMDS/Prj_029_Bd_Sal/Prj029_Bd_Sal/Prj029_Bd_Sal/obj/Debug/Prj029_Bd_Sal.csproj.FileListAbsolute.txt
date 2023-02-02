@@ -1,0 +1,10 @@
+F:\p\DS_com_Betão\MES9EMDS\Prj_029_Bd_Sal\Prj029_Bd_Sal\Prj029_Bd_Sal\bin\Debug\Prj029_Bd_Sal.exe.config
+F:\p\DS_com_Betão\MES9EMDS\Prj_029_Bd_Sal\Prj029_Bd_Sal\Prj029_Bd_Sal\bin\Debug\Prj029_Bd_Sal.exe
+F:\p\DS_com_Betão\MES9EMDS\Prj_029_Bd_Sal\Prj029_Bd_Sal\Prj029_Bd_Sal\bin\Debug\Prj029_Bd_Sal.pdb
+F:\p\DS_com_Betão\MES9EMDS\Prj_029_Bd_Sal\Prj029_Bd_Sal\Prj029_Bd_Sal\obj\Debug\Prj029_Bd_Sal.csprojAssemblyReference.cache
+F:\p\DS_com_Betão\MES9EMDS\Prj_029_Bd_Sal\Prj029_Bd_Sal\Prj029_Bd_Sal\obj\Debug\Prj029_Bd_Sal.Form1.resources
+F:\p\DS_com_Betão\MES9EMDS\Prj_029_Bd_Sal\Prj029_Bd_Sal\Prj029_Bd_Sal\obj\Debug\Prj029_Bd_Sal.Properties.Resources.resources
+F:\p\DS_com_Betão\MES9EMDS\Prj_029_Bd_Sal\Prj029_Bd_Sal\Prj029_Bd_Sal\obj\Debug\Prj029_Bd_Sal.csproj.GenerateResource.cache
+F:\p\DS_com_Betão\MES9EMDS\Prj_029_Bd_Sal\Prj029_Bd_Sal\Prj029_Bd_Sal\obj\Debug\Prj029_Bd_Sal.csproj.CoreCompileInputs.cache
+F:\p\DS_com_Betão\MES9EMDS\Prj_029_Bd_Sal\Prj029_Bd_Sal\Prj029_Bd_Sal\obj\Debug\Prj029_Bd_Sal.exe
+F:\p\DS_com_Betão\MES9EMDS\Prj_029_Bd_Sal\Prj029_Bd_Sal\Prj029_Bd_Sal\obj\Debug\Prj029_Bd_Sal.pdb

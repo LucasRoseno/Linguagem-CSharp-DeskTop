@@ -1,0 +1,10 @@
+F:\p\DS_com_Betão\MES9EMDS\Prj031_prova_26-10\Prj031_prova_26-10\obj\Debug\Prj031_prova_26-10.csprojAssemblyReference.cache
+F:\p\DS_com_Betão\MES9EMDS\Prj031_prova_26-10\Prj031_prova_26-10\obj\Debug\Prj031_prova_26_10.Form1.resources
+F:\p\DS_com_Betão\MES9EMDS\Prj031_prova_26-10\Prj031_prova_26-10\obj\Debug\Prj031_prova_26_10.Properties.Resources.resources
+F:\p\DS_com_Betão\MES9EMDS\Prj031_prova_26-10\Prj031_prova_26-10\obj\Debug\Prj031_prova_26-10.csproj.GenerateResource.cache
+F:\p\DS_com_Betão\MES9EMDS\Prj031_prova_26-10\Prj031_prova_26-10\obj\Debug\Prj031_prova_26-10.csproj.CoreCompileInputs.cache
+F:\p\DS_com_Betão\MES9EMDS\Prj031_prova_26-10\Prj031_prova_26-10\bin\Debug\Prj031_prova_26-10.exe.config
+F:\p\DS_com_Betão\MES9EMDS\Prj031_prova_26-10\Prj031_prova_26-10\bin\Debug\Prj031_prova_26-10.exe
+F:\p\DS_com_Betão\MES9EMDS\Prj031_prova_26-10\Prj031_prova_26-10\bin\Debug\Prj031_prova_26-10.pdb
+F:\p\DS_com_Betão\MES9EMDS\Prj031_prova_26-10\Prj031_prova_26-10\obj\Debug\Prj031_prova_26-10.exe
+F:\p\DS_com_Betão\MES9EMDS\Prj031_prova_26-10\Prj031_prova_26-10\obj\Debug\Prj031_prova_26-10.pdb
